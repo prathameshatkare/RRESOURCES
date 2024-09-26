@@ -2,3 +2,21 @@ harkirat cohort syllabus |(https://quickest-juniper-f9c.notion.site/Cohort-2-0-F
 
 PROJECTS(https://github.com/codecrafters-io/build-your-own-x)(https://www.kashipara.com/)
 Python Book:https://automatetheboringstuff.com/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Resources</title>
+    <div>
+        <ol><a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3">Youtubes</a></ol>
+        <ol><a href="c:\Users\ASUS\Downloads\thinkpython2.pdf">Book1</a></ol>
+        <ol><a href="https://automatetheboringstuff.com/">Book</a></ol>
+ <ol><a href="https://medium.com/@Coursesteach/best-free-resources-to-learn-python-ba9def93c9ed">Blog</a></ol>
+<ol><a href="https://github.com/SkalskiP/courses?tab=readme-ov-file">Github</a></ol>
+    </div>
+</head>
+<body>
+    
+</body>
+</html>
