@@ -1,4 +1,4 @@
-harkirat cohort syllabus |(https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)|
+ |(https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)|
 
 PROJECTS(https://github.com/codecrafters-io/build-your-own-x)(https://www.kashipara.com/)
 Python Book:https://automatetheboringstuff.com/
@@ -14,6 +14,7 @@ Python Book:https://automatetheboringstuff.com/
         <ol><a href="https://automatetheboringstuff.com/">Book</a></ol>
  <ol><a href="https://medium.com/@Coursesteach/best-free-resources-to-learn-python-ba9def93c9ed">Blog</a></ol>
 <ol><a href="https://github.com/SkalskiP/courses?tab=readme-ov-file">Github</a></ol>
+        <ol><a href="https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)">harkirat cohort syllabus</a></ol>
     </div>
 </head>
 <body>
