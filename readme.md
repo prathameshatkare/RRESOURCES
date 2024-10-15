@@ -17,6 +17,7 @@
         <ol><a href="https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)">harkirat cohort syllabus</a></ol>
      <ol><a href="https://github.com/SkalskiP/courses?tab=readme-ov-file">Github</a></ol>
      <ol><a href="https://github.com/codecrafters-io/build-your-own-x)(https://www.kashipara.com">PROJECTS</a></ol>
+        <ol><a href="https://github.com/lukasz-madon/awesome-remote-job">Github</a></ol>ol
     </div>
 </head>
 <body>
