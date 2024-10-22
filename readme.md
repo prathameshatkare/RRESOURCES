@@ -20,7 +20,7 @@
         <ol><a href="https://github.com/lukasz-madon/awesome-remote-job">Github</a></ol>
         <ol><a href="[https://github.com/lukasz-madon/awesome-remote-job](https://github.com/zhashkevych/awesome-backend?fbclid=PAZXh0bgNhZW0CMTEAAaYvobrHNYjEaz9Fp4BKCCjzSj8NIsuOrzypCgR_Mi-pU9fzTMUfre8vH40_aem_Fm9vJrJqvnJPq4uGh_Djdg)">Github  BAckend</a></ol>
        <ol><a href="https://django-book-new.readthedocs.io/en/latest/chapter02.html">BOOK</a></ol>
-        <ol><a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects"></a>project rsepo</ol>ol
+        <ol><a href="https://github.com/Mrinank-Bhowmick/python-beginner-projects">project rsepo</a></ol>
     </div>
 </head>
 <body>
