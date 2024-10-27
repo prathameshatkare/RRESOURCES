@@ -79,7 +79,7 @@
              <tr>
                 <td>Book</td>
                 <td>MY LEARNINNG</td>
-                <td><a href="(https://github.com/prathameshatkare/chai-aur-python)">Read here</a></td>
+                <td><a href="https://github.com/prathameshatkare/chai-aur-python">Read here</a></td>
             </tr>
         </tbody>
     </table>
