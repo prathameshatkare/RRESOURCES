@@ -24,7 +24,7 @@
             <tr>
                 <td>Book</td>
                 <td>Think Python (PDF)</td>
-                <td><a href="c:\Users\ASUS\Downloads\thinkpython2.pdf">Download PDF</a></td>
+                <td><a href="https://greenteapress.com/wp/think-python-2e/">Download PDF</a></td>
             </tr>
             <tr>
                 <td>Book</td>
