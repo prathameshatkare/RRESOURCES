@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--     <title>Python Resources</title> -->
+
 </head>
 <body>
     <h1>Python Resources</h1>
@@ -75,6 +75,11 @@
                 <td>Assignments</td>
                 <td>Assignments Repository</td>
                 <td><a href="https://github.com/chandankushwahaa/100xdevs_2.0/tree/main/0-1/week01/assignments">View assignments</a></td>
+            </tr>
+             <tr>
+                <td>Book</td>
+                <td>MY LEARNINNG</td>
+                <td><a href="(https://github.com/prathameshatkare/chai-aur-python)">Read here</a></td>
             </tr>
         </tbody>
     </table>
