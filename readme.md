@@ -77,7 +77,7 @@
                 <td><a href="https://github.com/chandankushwahaa/100xdevs_2.0/tree/main/0-1/week01/assignments">View assignments</a></td>
             </tr>
              <tr>
-                <td>Book</td>
+                <td>MY REPO</td>
                 <td>MY LEARNINNG</td>
                 <td><a href="https://github.com/prathameshatkare/chai-aur-python">Read here</a></td>
             </tr>
