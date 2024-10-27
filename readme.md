@@ -6,7 +6,7 @@
 
 </head>
 <body>
-    <h1>Python Resources</h1>
+    <h1>Resources </h1>
     <table>
         <thead>
             <tr>
