@@ -81,6 +81,11 @@
                 <td>MY LEARNINNG</td>
                 <td><a href="https://github.com/prathameshatkare/chai-aur-python">Read here</a></td>
             </tr>
+             <tr>
+                <td>Github</td>
+                <td>MY company wise trending projects</td>
+                <td><a href="https://github.com/nishant-Tiwari24/company-wise-projects">Read here</a></td>
+            </tr>
         </tbody>
     </table>
 </body>
