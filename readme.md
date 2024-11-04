@@ -91,6 +91,11 @@
                 <td>JOB link</td>
                 <td><a href="https://www.linkedin.com/posts/himabindu-krovvidi_career-jobsearch-tech-activity-7259006441515094016-iZib?utm_source=share&utm_medium=member_desktop">Read here</a></td>
             </tr>
+             <tr>
+                <td>notion</td>
+                <td>complete roadmap</td>
+                <td><a href="https://sajalb.notion.site/Complete-Full-Stack-Development-Roadmap-0-1-to-1-100-3548cab15c0a404c8c177fd2c3312374">Read here</a></td>
+            </tr>
         </tbody>
     </table>
 </body>
