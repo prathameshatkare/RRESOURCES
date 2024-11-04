@@ -86,6 +86,11 @@
                 <td>MY company wise trending projects</td>
                 <td><a href="https://github.com/nishant-Tiwari24/company-wise-projects">Read here</a></td>
             </tr>
+            <tr>
+                <td>Github</td>
+                <td>JOB link</td>
+                <td><a href="https://www.linkedin.com/posts/himabindu-krovvidi_career-jobsearch-tech-activity-7259006441515094016-iZib?utm_source=share&utm_medium=member_desktop">Read here</a></td>
+            </tr>
         </tbody>
     </table>
 </body>
