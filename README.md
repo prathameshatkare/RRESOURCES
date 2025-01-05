@@ -108,7 +108,7 @@ Welcome to the comprehensive resource list for learning Full Stack Development. 
 
 ---
 
-## **Stay Updated**
+## **Credit**
 - **Twitter**: [@abhithory](https://twitter.com/abhithory)
 - **LinkedIn**: [Abhithory](https://www.linkedin.com/in/abhithory/)
 - **GitHub**: [Abhithory](https://github.com/abhithory)
