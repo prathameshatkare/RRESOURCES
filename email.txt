@@ -1,0 +1,31 @@
+ubject: RE: Engineering at [Startup/Company Name]
+
+tl;dr:
+I’m obsessed with building things that matter. I don’t have many hobbies outside coding. I’m not athletic, can't sing, and I definitely can’t dance — but I love taking ideas from 0 → 1 or 1 → 100. Right now, I just want to keep my head down and help build something meaningful.
+
+Hi,
+
+I’ve been following what you’re building at [Company Name], and it genuinely excites me. I wanted to check if there are any openings for engineering roles on your early team. I’m a self-driven developer with experience in both frontend and backend development. I’ve contributed to open-source initiatives like GSSoC’24 and VSoC’24 — fixing UI/UX issues, improving features, and mentoring contributors.
+
+My core stack includes:
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, SCSS, and React
+
+Backend: Python (Flask & Django), MySQL
+
+Projects:
+
+Drug Inventory and Supply Chain Tracker – streamlining medicine logistics
+
+Emotion Detection via Feedback Forms – browser-based real-time emotion tagging
+
+Student Management System – deployed full-stack app for managing academic data
+
+Visual Sort – algorithm visualization tool built from scratch
+
+I’m currently deepening my backend expertise, learning cloud deployment (PythonAnywhere, AWS), and focusing on building scalable systems with clean architecture. I enjoy working on 0-to-1 products, and I’m especially drawn to lean teams where I can wear multiple hats, learn fast, and contribute meaningfully from day one.
+
+I’d love to be a part of [Company Name]’s early journey and help define its product and engineering culture. Looking forward to hearing from you!
+
+Best,
+Prathamesh Atkare
